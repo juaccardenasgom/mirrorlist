@@ -1,0 +1,15 @@
+Server = http://mirrors.kernel.org/archlinux/$repo/os/$arch
+Server = http://archlinux.cu.be/$repo/os/$arch
+Server = http://archlinux.vi-di.fr/$repo/os/$arch
+Server = http://mirror.metalgamer.eu/archlinux/$repo/os/$arch
+Server = http://mirror.pseudoform.org/$repo/os/$arch
+Server = https://mirror.osbeck.com/archlinux/$repo/os/$arch
+Server = http://mirrors.evowise.com/archlinux/$repo/os/$arch
+Server = http://mirror.pit.teraswitch.com/archlinux/$repo/os/$arch
+Server = http://arlm.tyzoid.com/$repo/os/$arch
+Server = http://mirror.archlinux.ikoula.com/archlinux/$repo/os/$arch
+Server = http://mirror.umd.edu/archlinux/$repo/os/$arch
+Server = http://mirror.wdc1.us.leaseweb.net/archlinux/$repo/os/$arch
+Server = http://mirror.kaminski.io/archlinux/$repo/os/$arch
+Server = http://arch.eckner.net/archlinux/$repo/os/$arch
+Server = http://mirrors.acm.wpi.edu/archlinux/$repo/os/$arch
